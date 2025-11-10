@@ -15,3 +15,19 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Generated files (can be regenerated)
+graphs/
+results/
+visualizations/
+
+# Report files
+report /
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
